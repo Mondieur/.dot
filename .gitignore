@@ -1,0 +1,6 @@
+./git_conf.sh
+./git_save.sh
+./git_send.sh
+
+
+# git clone https://github.com/Mondieur/gifnoc.git
