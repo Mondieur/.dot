@@ -1,6 +1,6 @@
 # Settings
-Files which purpose is configuration.
+My personal dotfiles.
 
-### Place the following in `cd ~`
-Place `.Xresources` in user path <br>
-Place `.emacs.d` in user path <br>
+### All-in-one Manual
+1. Insert the `.Xresources` file in user path <br>
+2. Insert the `.emacs.d` folder in user path <br>
