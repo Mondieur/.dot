@@ -20,5 +20,4 @@ $ sudo -iu postgres
 [postgres] $ createuser --interactive -P
 ```
 # PgAdmin4
-I tried in so many different ways to download, install and launch.
-But it always crashes at launch point, so for instance, leave it.
+New installation method through python [hyperlink](https://www.pgadmin.org/download/pgadmin-4-python/).
