@@ -10,7 +10,7 @@
 
 [Java]
 - Extension Pack for Java (White Cup Logo)
-- Spring Initializr Java Support (Ctrl + Shift + P > Spring Maven)
+- Spring Initializr Java Support (Ctrl + Shift + P > Spring Initializr: Create a Maven Project)
 
 [Python]
 - Python (Python Logo)
