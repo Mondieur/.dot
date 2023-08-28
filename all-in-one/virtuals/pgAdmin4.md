@@ -1,9 +1,7 @@
 # Install pgAdmin4
-
-<img src="../../images/postgresql.png" style="" />
-![PostgreSQL](../../images/postgresql.png)
-
 Install pgAdmin4 locally with a python virtual environment
+
+<img src="../../images/postgresql.png" width="100"/>
 
 ```sh
 $ su root   # switch user root
