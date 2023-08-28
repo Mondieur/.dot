@@ -3,8 +3,8 @@
 Install pgAdmin4 locally with a python virtual environment
 
 ```sh
-$ su root   # be root
-$ whoami    # verify permission
+$ su root   # switch user root
+$ whoami    # verify who am i
 
 $ sudo mkdir /var/lib/pgadmin
 $ sudo mkdir /var/log/pgadmin
@@ -17,8 +17,6 @@ $ source pgadmin4/bin/activate
 ... # downloading dependencies, so just wait a bit
 (pgadmin4) $ pgadmin4
 
-$ exit 
-# It will ask for an email and password
-# Now you good to go! Bye bye!
+$ exit
 ```
 
