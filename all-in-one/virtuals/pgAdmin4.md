@@ -1,5 +1,8 @@
 # Install pgAdmin4
 
+<img src="../../images/postgresql.png" style="" />
+![PostgreSQL](../../images/postgresql.png)
+
 Install pgAdmin4 locally with a python virtual environment
 
 ```sh
@@ -13,8 +16,9 @@ $ sudo chown $USER /var/log/pgadmin
 $ python3 -m venv pgadmin4
 $ source pgadmin4/bin/activate
 
+# downloading dependencies, so just wait a bit
 (pgadmin4) $ pip install pgadmin
-... # downloading dependencies, so just wait a bit
+... 
 (pgadmin4) $ pgadmin4
 
 $ exit
