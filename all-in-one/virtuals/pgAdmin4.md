@@ -17,6 +17,7 @@ $ source pgadmin4/bin/activate
 ... # downloading dependencies, so just wait a bit
 (pgadmin4) $ pgadmin4
 
+$ exit 
 # It will ask for an email and password
 # Now you good to go! Bye bye!
 ```
