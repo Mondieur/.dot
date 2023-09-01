@@ -18,7 +18,6 @@
 
 Download list:
 ```sh
-sudo pacman -S nodejs
 sudo pacman -S npm
 sudo pacman -S python
 sudo pacman -S docker
@@ -28,7 +27,19 @@ sudo pacman -S openssl
 sudo pacman -S docker-compose
 ```
 
-Python Dependencies:
+<img src='../../images/nvm.png' width='140'/>
+
+# NVM Node
+* Must download with curl
+* See the Initializer script
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+```
+
+Must activate it with [Nvm script](../addons/nvm_init.sh)
+
+# Python Dependencies
 ```sh
 pip show flask
 pip show Flask-SQLAlchemy
