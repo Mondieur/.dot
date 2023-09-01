@@ -25,6 +25,7 @@ sudo pacman -S docker
 sudo pacman -S git
 sudo pacman -S psql
 sudo pacman -S openssl
+sudo pacman -S docker-compose
 ```
 
 Python Dependencies:
@@ -49,8 +50,9 @@ pip show Flask-SQLAlchemy
 
 [Java]
 - Extension Pack for Java (White Cup Logo)
-- Spring Initializr Java Support (Ctrl + Shift + P)
+- Spring Initializr Java Support
 
 [Python]
 - Python (Python Logo)
 ```
+
