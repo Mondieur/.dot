@@ -24,6 +24,7 @@ sudo pacman -S python
 sudo pacman -S docker
 sudo pacman -S git
 sudo pacman -S psql
+sudo pacman -S openssl
 ```
 
 Python Dependencies:
