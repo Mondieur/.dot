@@ -4,7 +4,8 @@ myArray=(
     "tsc -v"
     "ng version"
     "python -V" 
-    "docker --version" 
+    "docker --version"
+    "docker-compose --version" 
     "git -v"
     "psql -V"
 )
