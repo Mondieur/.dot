@@ -1,7 +1,7 @@
 
 ### Emacs lsp
 <p align="center">
-  <img src="./logo.png" width="200" alt="accessibility text">
+  <img src="../../images/emacslsp.png" width="200" alt="accessibility text">
 </p>
 
 #### `init.el`
