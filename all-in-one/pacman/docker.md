@@ -1,4 +1,8 @@
-#### For everyday
+<img width='100px' src='../../images/docker_moby.png'>
+
+# Docker 
+
+### Routine manual
 1. Start docker
 ```sh
 sudo systemctl start docker
@@ -8,7 +12,7 @@ sudo systemctl start docker
 sudo systemctl start docker
 ```
 
-#### Docker Installation
+### Docker Installation
 1. Install Docker Engine:
 ```sh
 sudo pacman -S docker
@@ -38,3 +42,4 @@ sudo usermod -aG docker your_username
 # so it goes and installs automatically on the web
 sudo docker run hello-world
 ```
+
