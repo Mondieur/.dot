@@ -1,7 +1,7 @@
 
-<div style="display: flex;">
+<div style="display: block;">
     <img src='../../images/tux.png' width='55'/>
-    <img src='../../images/gunter.webp' width='55'/>
+    <img src='../../images/gunter.webp' width='40'/>
     <img src='../../images/arch.png' width='55'/>
 </div>
 
