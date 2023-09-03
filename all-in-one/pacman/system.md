@@ -1,6 +1,10 @@
 
-<img src='../../images/tux.png' width='55'/>
-<img src='../../images/arch.png' width='55'/>
+<div style="display: flex;">
+    <img src='../../images/tux.png' width='55'/>
+    <img src='../../images/gunter.webp' width='55'/>
+    <img src='../../images/arch.png' width='55'/>
+</div>
+
 
 # Linux OS
 1. Create file `touch bash.sh`
