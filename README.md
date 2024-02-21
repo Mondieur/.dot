@@ -7,3 +7,7 @@ My personal dotfiles.
 
 Some are required, some are optional or facilitators.
 
+### Distributions
+- Ubuntu has annoying interrupting security features
+- Mint has gui and it's more straight to programming than Ubuntu.
+- Arch has not a gui, neither native apps, thus more optimized than Mint.
