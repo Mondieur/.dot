@@ -1,5 +1,4 @@
-# All-in-one Manual
-My personal dotfiles.
+# README Config 
 
 1. Move the `.Xresources` file to `./~`
 2. Move the `.emacs.d` folder to `./~`
@@ -8,6 +7,6 @@ My personal dotfiles.
 Some scripts are optional utilities.
 
 ### Distributions
-- Ubuntu has annoying interrupting security features
-- Mint has gui and it's more straight to programming than Ubuntu.
-- Arch has not a gui, neither native apps, thus more optimized than Mint.
+- `ubuntu`: has annoying interrupting security features
+- `mint`: has gui and it's more straight to programming than Ubuntu.
+- `arch`: has not a gui, neither native apps, thus more optimized than Mint.
