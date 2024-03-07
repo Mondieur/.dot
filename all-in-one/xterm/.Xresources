@@ -1,8 +1,0 @@
-x! Global 
-#define fg #cccccc
-#define bg #010101
-
-! Xterm
-xterm*background: bg
-xterm*foreground: fg
-xterm*font: xft:Ubuntu Mono:size=16
