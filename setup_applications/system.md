@@ -31,6 +31,13 @@ Must activate it with [Nvm script](../arch_setup/server_nvm.sh)
 
 # Code OSS
 
+Features
+- disable sticky scroll
+- disable tabs
+- enable full window width terminal
+- disable top bar
+
+Plugins
 - live server
 - markdown preview enhanced
 - vscode-icons
