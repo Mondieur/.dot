@@ -1,8 +1,8 @@
 
 <div style="display: block;">
-    <img style='padding: 20px;' src='../images/tux.png' width='80'/>
-    <img style='padding: 20px;' src='../images/gunter.webp' width='55'/>
-    <img style='padding: 20px;' src='../images/arch.png' width='80'/>
+    <img style='padding: 20px;' src='../assets/tux.png' width='80'/>
+    <img style='padding: 20px;' src='../assets/gunter.webp' width='55'/>
+    <img style='padding: 20px;' src='../assets/arch.png' width='80'/>
 </div>
 
 # Arch Linux Setup
@@ -13,12 +13,12 @@
 5. Move nested folder: `mv -r ./nested ../../home`
 6. Disk usage: `du -sh` 
 
-<img src='../images/pacman.png' style='padding: 20px;' width='110'/>
+<img src='../assets/pacman.png' style='padding: 20px;' width='110'/>
 
 # Pacman package manager
 1. Download package: `sudo pacman -S <package_name>`
 
-<img src='../images/nvm.png' style='padding: 20px;' width='140'/>
+<img src='../assets/nvm.png' style='padding: 20px;' width='140'/>
 
 # Node Version Manager
 1. Must download with curl
@@ -27,7 +27,7 @@
 
 Must activate it with [Nvm script](../arch_setup/server_nvm.sh)
 
-<img src='../images/codeoss.png' style='padding: 20px;'  width='70'/>
+<img src='../assets/codeoss.png' style='padding: 20px;'  width='70'/>
 
 # Code OSS
 
