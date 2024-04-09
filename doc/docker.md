@@ -1,4 +1,4 @@
-<img width='100px' src='../images/docker_moby.png'>
+<img width='100px' src='../assets/docker_moby.png'>
 
 # Docker 
 

@@ -1,7 +1,7 @@
 # PostgreSQL Diary
 The following link contains a tutorial that doesn't fail
 
-<img src="../images/postgresql.png" width="100"/>
+<img src="../assets/postgresql.png" width="80"/>
 
 [Reference Hyperlink in AUR](https://wiki.archlinux.org/title/PostgreSQL)
 
@@ -49,3 +49,20 @@ In pgAdmin4 the "Connection" tab:
 - Click the "Save Password" checkbox if you want pgAdmin to remember your password (optional).
 - Click "Save" to save the server connection.
 
+### Upgrade Postgres 
+
+You need to manually upgrade the collation version.
+
+```sql 
+-- 1. Login into postgres: `sudo -u postgres psql`
+sudo -u postgres psql
+
+-- 2. Look the list of databases: 
+\l
+
+-- 3. Upgrade collation version:
+ALTER DATABASE template1 REFRESH COLLATION VERSION;
+
+-- 4. Quit postgres cli: 
+\q
+```
