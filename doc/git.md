@@ -1,4 +1,8 @@
 ### Initialize a repository
+
+
+<img style='padding: 20px;' src='../assets/github.png' width='100'/>
+
 ```sh
 echo "# empty" >> README.md
 git init

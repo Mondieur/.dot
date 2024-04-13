@@ -1,4 +1,3 @@
-# README Config 
 
 ### Arch Setup Saga
 
@@ -6,8 +5,8 @@ Manual to setup the development environment
 
 
 <div style="display: block;">
-    <img style='padding-left: 30px; padding-bottom: 10px;' src='./assets/arch.png' width='80'/>
-    <img style='padding-left: 20px; padding-bottom: 10px;' src='./assets/pacman2.png' width='140'/>
+    <img style='padding-left: 30px; padding-bottom: 10px;' src='../assets/arch.png' width='80'/>
+    <img style='padding-left: 20px; padding-bottom: 10px;' src='../assets/pacman2.png' width='140'/>
 </div>
 
 1. Move the `.Xresources` file to `./~`

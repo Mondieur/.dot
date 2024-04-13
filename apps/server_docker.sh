@@ -14,6 +14,6 @@ sudo systemctl is-enabled docker
 # optional
 sudo usermod -aG docker your_username
 
-# the hello-world image by default doesnt exist
-# so it goes and installs automatically on the web
+# hello world doesnt exist
+# its fetched and downloaded
 sudo docker run hello-world

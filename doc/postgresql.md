@@ -1,7 +1,7 @@
 # PostgreSQL Diary
 The following link contains a tutorial that doesn't fail
 
-<img src="../assets/postgresql.png" width="80"/>
+<img src="../assets/postgresql.png" width="60"/>
 
 [Reference Hyperlink in AUR](https://wiki.archlinux.org/title/PostgreSQL)
 
@@ -36,7 +36,6 @@ $ source pgadmin4/bin/activate
 (pgadmin4) $ pip install pgadmin4
 ... 
 (pgadmin4) $ pgadmin4
-
 $ exit
 ```
 

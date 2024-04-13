@@ -1,7 +1,7 @@
 
-### Emacs lsp
+### Emacs language server provider
 <p>
-  <img src="../images/emacslsp.png" width="200" alt="accessibility text">
+  <img src="../assets/emacslsp.png" width="200" alt="accessibility text">
 </p>
 
 #### `init.el`
