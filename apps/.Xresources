@@ -1,3 +1,9 @@
+! sudo pacman -S xclip
+! config xclip on xterm
+! XTerm*selectToClipboard: true
+! XTerm*useClipboard: true
+! xrdb ~/.Xresources
+
 x! Global 
 #define fg #cccccc
 #define bg #010101
