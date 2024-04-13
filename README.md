@@ -1,5 +1,7 @@
 # README Config 
 
+Repository [hyperlink](https://github.com/Moundier/config.git)
+
 ### Arch Setup Saga
 
 Manual to setup the development environment
