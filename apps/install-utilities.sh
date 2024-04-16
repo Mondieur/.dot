@@ -15,6 +15,7 @@ sudo pacman -S pulsemixer
 sudo pacman -S htop btop
 sudo pacman -S xrandr
 sudo pacman -S lsof
+sudo pacman -S curl
 
 # editors
 sudo pacman -S nvim
