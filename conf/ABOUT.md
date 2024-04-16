@@ -1,5 +1,9 @@
 
 ### Emacs language server provider
+
+
+Move these files to `~/.emacs.d` folder
+
 <p>
   <img src="../assets/emacslsp.png" width="200" alt="accessibility text">
 </p>

@@ -9,10 +9,10 @@ postman_desktop="/usr/share/applications/postman.desktop"
 # Append the content to the file
 echo -e "$entry" >> "$postman_desktop"
 
-# Display a message to confirm the operation
+# Display successful output
 echo "Content appended to $file_path"
 
-# Extract Postman
+# Postman tarball
 cd ~/Downloads/
 tar -xzf postman-linux-x64.tar.gz
 sudo mv Postman /opt
