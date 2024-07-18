@@ -16,6 +16,10 @@ Manual to setup the development environment
 2. Move the `.emacs.d` folder to `./~`
 3. Download all apps from `/pacman/` folder.
 
+### Font 
+1. `sudo nano /etc/fonts/local.conf`
+2. Download a ttf font that supports unicode
+
 ### Develoment tools
 
 - git 
